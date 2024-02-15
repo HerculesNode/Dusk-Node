@@ -1,6 +1,8 @@
 # Dusk Node işlemleri
 
-Dusk teşvikli Node kurulum işlemi
+Dusk teşvikli Node kurulum işlemi. Ödül alabilmeniz için;  
+- 20 Şubat itibarıyla düğümlerin çalışır durumda olması gerekiyor. Bu, "sayıldığı" ve çalışma süresinin kaydedileceği zamandır
+- 20 Şubat - 15 Mart 2024 arası çalışması gerekiyor.
 
 
 ## Linkler
