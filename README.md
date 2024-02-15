@@ -37,7 +37,7 @@ curl --proto '=https' --tlsv1.2 -sSfL https://github.com/dusk-network/itn-instal
 
 - Cüzdan adresinizi kopyalayın ve Twitter adresinizden Tweet atın. Cüzdan adresi ve sonuna $DUSK #ITN  bu şekilde.
 
-- Faucet gidin ve twitter linkinizi kopyalayın faucet.dusk.network  https://faucet.dusk.network
+- Faucet gidin ve twitter linkinizi kopyalayın https://faucet.dusk.network
 
 ![image](https://github.com/HerculesNode/Dusk-Node/assets/101635385/c8bc06fe-9814-4540-bef1-fa0f1ed5f970)
 
