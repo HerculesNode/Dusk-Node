@@ -9,8 +9,9 @@ Dusk teşvikli Node kurulum işlemi
 
 ## Sistem özellikleri
 
-Önerilern:
--ubuntu 22.04 ( 20.04 sorun çıkarıyor )
+Önerilen : 
+- Sunucu alacak arkadaşlar kurulum sırasında UBUNTU 22.04 seçmeli
+- UBUNTU 22.04
 - 4 RAM
 - 50-100 GB SSD
 
