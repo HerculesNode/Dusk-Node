@@ -110,3 +110,8 @@ rusk-wallet stake --amt 1000 # Or however much you want to stake
 ```shell
 rusk-wallet stake-info
 ```
+
+- Böyle görünmesi lazım
+
+![image](https://github.com/HerculesNode/Dusk-Node/assets/101635385/9a572b65-100a-4341-aa70-9ba87a425623)
+
