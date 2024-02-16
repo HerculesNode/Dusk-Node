@@ -3,6 +3,9 @@
 Dusk teşvikli Node kurulum işlemi. Ödül alabilmeniz için;  
 - 20 Şubat itibarıyla düğümlerin çalışır durumda olması gerekiyor. Bu, "sayıldığı" ve çalışma süresinin kaydedileceği zamandır
 - 20 Şubat - 15 Mart 2024 arası çalışması gerekiyor.
+- Ödüller : <BR>
+250K DUSK tüm düğümlere eşit olarak dağıtılacak <BR>
+250K DUSK, stake edilen tutara göre POAP airdrop'uyla dağıtılacak
 
 
 ## Linkler
