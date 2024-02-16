@@ -35,11 +35,13 @@ curl --proto '=https' --tlsv1.2 -sSfL https://github.com/dusk-network/itn-instal
 
 ## Cüzdan oluşturma ve Faucet işlemi 
 
-- Bu adrese gidin ve cüzdan oluşturun https://wallet.dusk.network/setup/
+- Bu adrese gidin ve cüzdan oluşturun Kelimeleri kaydedin. Kelimeleri büyük harf veriyor bunları küçük harf olarak değiştirin 
+- https://wallet.dusk.network/setup/
 
 - Cüzdan adresinizi kopyalayın ve Twitter adresinizden Tweet atın. Cüzdan adresi ve sonuna $DUSK #ITN  bu şekilde.
 
-- Faucet gidin ve twitter linkinizi kopyalayın 1100 adet tDusk gelecek https://faucet.dusk.network 
+- Faucet gidin ve twitter linkinizi kopyalayın 1100 adet tDusk gelecek 
+- https://faucet.dusk.network 
 
 ![image](https://github.com/HerculesNode/Dusk-Node/assets/101635385/c8bc06fe-9814-4540-bef1-fa0f1ed5f970)
 
