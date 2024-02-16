@@ -11,11 +11,9 @@ Dusk teşvikli Node kurulum işlemi. Ödül alabilmeniz için;
 
 ## Sistem özellikleri
 
-Önerilen : 
-- Sunucu alacak arkadaşlar kurulum sırasında UBUNTU 22.04 seçmeli
-- UBUNTU 22.04
-- 4 RAM
-- 50-100 GB SSD
+| 2-4 Gb Ram  | Ubuntu 22.04 |  50-100 Gb SSD | 
+| ----------------- | ----------------- | ----------------- |
+
 
 ## Sistem Güncelleme ve kütüphaneler
 ```shell
@@ -38,9 +36,9 @@ curl --proto '=https' --tlsv1.2 -sSfL https://github.com/dusk-network/itn-instal
 - Bu adrese gidin ve cüzdan oluşturun Kelimeleri kaydedin. Kelimeleri büyük harf veriyor bunları küçük harf olarak değiştirin 
 - https://wallet.dusk.network/setup/
 
-- Cüzdan adresinizi kopyalayın ve Twitter adresinizden Tweet atın. Cüzdan adresi ve sonuna $DUSK #ITN  bu şekilde.
+- Cüzdan adresinizi kopyalayın ve Twitter adresinizden Tweet atın. `Cüzdan adresi $DUSK #ITN`  bu şekilde.
 
-- Faucet gidin ve twitter linkinizi kopyalayın 1100 adet tDusk gelecek 
+- Faucet adresine gidin ve twitter linkinizi kopyalayın 1100 adet tDusk gelecek 
 - https://faucet.dusk.network 
 
 ![image](https://github.com/HerculesNode/Dusk-Node/assets/101635385/c8bc06fe-9814-4540-bef1-fa0f1ed5f970)
