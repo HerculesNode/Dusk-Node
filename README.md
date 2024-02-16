@@ -115,3 +115,8 @@ rusk-wallet stake-info
 
 ![image](https://github.com/HerculesNode/Dusk-Node/assets/101635385/9a572b65-100a-4341-aa70-9ba87a425623)
 
+
+## Destek
+
+Core Node ekibine teşekkürler.
+
