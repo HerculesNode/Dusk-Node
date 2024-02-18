@@ -119,6 +119,20 @@ rusk-wallet stake-info
 ![image](https://github.com/HerculesNode/Dusk-Node/assets/101635385/9a572b65-100a-4341-aa70-9ba87a425623)
 
 
+## Senkronizasyon Kontrol
+
+Aşağıdaki kodu direk sunucuya yapıştırın bloklar yükseliyormu kontrol edin.
+
+```shell
+curl --location --request POST 'http://127.0.0.1:8080/02/Chain' --header 'Rusk-Version: 0.7.0-rc' --header 'Content-Type: application/json' --data-raw '{
+    "topic": "gql",
+    "data": "query { block(height: -1) { header { height } } }"
+}' | jq '.block.header.height'
+```
+
+![image](https://github.com/HerculesNode/Dusk-Node/assets/101635385/c7bfb3eb-d46f-499b-9be8-64fa3b4411f9)
+
+
 ## Destek
 
 Core Node ekibine teşekkürler.
