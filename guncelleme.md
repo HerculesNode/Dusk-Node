@@ -15,7 +15,7 @@ tail -F /var/log/rusk.log
 ![image](https://github.com/HerculesNode/Dusk-Node/assets/101635385/ea3a2bca-fab6-454d-be2c-6727cd9b623d)
 
 
--blok kontrol 
+## Blok kontrol
 
 ```shell
 curl --location --request POST 'http://127.0.0.1:8080/02/Chain' --header 'Rusk-Version: 0.7.0-rc' --header 'Content-Type: application/json' --data-raw '{
@@ -29,7 +29,7 @@ curl --location --request POST 'http://127.0.0.1:8080/02/Chain' --header 'Rusk-V
 ![image](https://github.com/HerculesNode/Dusk-Node/assets/101635385/e61f7029-5a34-4325-ab6e-62b194a7b832)
 
 
--Stake kontrol
+## Stake kontrol
 
 ```shell
 rusk-wallet stake-info
