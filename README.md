@@ -39,17 +39,13 @@ curl --proto '=https' --tlsv1.2 -sSfL https://github.com/dusk-network/itn-instal
 - Bu adrese gidin ve cüzdan oluşturun Kelimeleri kaydedin. Kelimeleri büyük harf veriyor bunları küçük harf olarak değiştirin 
 - https://wallet.dusk.network/setup/
 
-- Cüzdan adresinizi kopyalayın ve Twitter adresinizden Tweet atın. `Cüzdan adresi $DUSK #ITN`  bu şekilde.
+- Cüzdan adresinizi kopyalayın Dusk discord kanalına girin ve `Dusk Testnet Faucet` botuna mesaj atın 
 
-- Faucet adresine gidin ve twitter linkinizi kopyalayın 1100 adet tDusk gelecek 
-- https://faucet.dusk.network 
+- `!dusk`  yazın 
+- Cüzdanınızı yazın
 
-![image](https://github.com/HerculesNode/Dusk-Node/assets/101635385/c8bc06fe-9814-4540-bef1-fa0f1ed5f970)
+![image](https://github.com/HerculesNode/Dusk-Node/assets/101635385/2544c3d0-7066-4dee-a621-53e46022fe12)
 
-![image](https://github.com/HerculesNode/Dusk-Node/assets/101635385/9763c414-998d-4e8c-a782-839a5d939763)
-
-
-![image](https://github.com/HerculesNode/Dusk-Node/assets/101635385/e234b68b-5fd9-4906-b9b6-368fc10f2961)
 
 - Aşağıdaki komutu girin ve cüzdan kelimelerinizi yazarak giriş yapın.
 - Şifrenizi belirleyin
