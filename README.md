@@ -84,6 +84,10 @@ service rusk start
 - Loglara bakın Bu şekilde akıyorsa sorun yok demektir.
 
 ```shell
+tail -F /var/log/rusk.log
+```
+
+```shell
 grep "block accepted" /var/log/rusk.log
 ```
 
