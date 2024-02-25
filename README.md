@@ -81,7 +81,7 @@ sh /opt/dusk/bin/setup_consensus_pwd.sh
 service rusk start
 ```
 
-- Loglara bakın Bu şekilde akıyorsa sorun yok demektir.
+- Loglara bakın Bu şekilde akıyorsa sorun yok demektir. son bloğa ulaşmadan stake yapmayın
 
 ```shell
 tail -F /var/log/rusk.log
@@ -96,6 +96,7 @@ grep "block accepted" /var/log/rusk.log
 
 ## Stake işlemleri
 
+- Son bloğa ulaşmadan stake yaparsanız görünmez o yüzden loglara bakın ondan sonra stake yapın.
 - Cüzdanınıza Faucet üzerinden 1000 tDusk aldıysanız aşağıdaki komutu girerek stake işlemini başlatın
 
 ```shell
