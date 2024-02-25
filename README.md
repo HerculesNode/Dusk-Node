@@ -96,7 +96,7 @@ grep "block accepted" /var/log/rusk.log
 
 ## Stake işlemleri
 
-- Son bloğa ulaşmadan stake yaparsanız görünmez o yüzden loglara bakın ondan sonra stake yapın.
+- Son bloğa ulaşmadan stake yaparsanız görünmez o yüzden loglara bakın ondan sonra stake yapın. Son blok kontrol https://explorer.dusk.network/
 - Cüzdanınıza Faucet üzerinden 1000 tDusk aldıysanız aşağıdaki komutu girerek stake işlemini başlatın
 
 ```shell
