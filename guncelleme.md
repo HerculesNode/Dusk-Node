@@ -1,6 +1,6 @@
 ## Dusk 1.4 güncelleme
 ```shell
-curl --proto '=https' --tlsv1.2 -sSfL https://github.com/dusk-network/itn-installer/releases/download/v0.1.4/itn-installer.sh | sudo sh
+curl --proto '=https' --tlsv1.2 -sSfL https://github.com/dusk-network/itn-installer/releases/download/v0.1.5/itn-installer.sh | sudo sh
 ```
 
 ```shell
