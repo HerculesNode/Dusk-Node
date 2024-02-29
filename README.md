@@ -28,7 +28,7 @@ sudo apt update && sudo apt upgrade -y
 Kurulumu yapın
 
 ```shell
-curl --proto '=https' --tlsv1.2 -sSfL https://github.com/dusk-network/itn-installer/releases/download/v0.1.4/itn-installer.sh | sudo sh
+curl --proto '=https' --tlsv1.2 -sSfL https://github.com/dusk-network/itn-installer/releases/download/v0.1.5/itn-installer.sh | sudo sh
 ```
 
 ![image](https://github.com/HerculesNode/Dusk-Node/assets/101635385/5ee16ea6-6e42-4bba-b3ed-caeb52759a05)
