@@ -8,6 +8,10 @@ service rusk start
 ```
 
 ```shell
+ruskquery block-height
+```
+
+```shell
 tail -F /var/log/rusk.log
 ```
 
