@@ -7,6 +7,8 @@ curl --proto '=https' --tlsv1.2 -sSfL https://github.com/dusk-network/itn-instal
 service rusk start
 ```
 
+- Blokları kontrol edin
+
 ```shell
 ruskquery block-height
 ```
