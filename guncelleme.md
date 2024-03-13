@@ -1,6 +1,6 @@
 ## Dusk 1.7 güncelleme
 ```shell
-curl --proto '=https' --tlsv1.2 -sSfL https://github.com/dusk-network/itn-installer/releases/download/v0.1.7/itn-installer.sh | sudo sh
+curl --proto '=https' --tlsv1.2 -sSfL https://github.com/dusk-network/itn-installer/releases/download/v0.1.8/itn-installer.sh | sudo sh
 ```
 
 ```shell
