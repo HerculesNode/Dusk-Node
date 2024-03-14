@@ -7,12 +7,6 @@ curl --proto '=https' --tlsv1.2 -sSfL https://github.com/dusk-network/itn-instal
 service rusk start
 ```
 
-- Blokları kontrol edin
-
-```shell
-ruskquery block-height
-```
-
 ```shell
 tail -F /var/log/rusk.log
 ```
@@ -24,16 +18,8 @@ tail -F /var/log/rusk.log
 ## Blok kontrol
 
 ```shell
-curl --location --request POST 'http://127.0.0.1:8080/02/Chain' --header 'Rusk-Version: 0.7.0-rc' --header 'Content-Type: application/json' --data-raw '{
-    "topic": "gql",
-    "data": "query { block(height: -1) { header { height } } }"
-}' | jq '.block.header.height'
+ruskquery block-height
 ```
-
-- bu şekilde çıktı almalısınız
-
-![image](https://github.com/HerculesNode/Dusk-Node/assets/101635385/e61f7029-5a34-4325-ab6e-62b194a7b832)
-
 
 ## Stake kontrol
 
