@@ -7,13 +7,11 @@ curl --proto '=https' --tlsv1.2 -sSfL https://github.com/dusk-network/itn-instal
 service rusk start
 ```
 
+
+Loglara bakın
 ```shell
 tail -F /var/log/rusk.log
 ```
-
-- Bu şekilde çıktı almanız gerekiyor
-![image](https://github.com/HerculesNode/Dusk-Node/assets/101635385/ea3a2bca-fab6-454d-be2c-6727cd9b623d)
-
 
 ## Blok kontrol
 
